@@ -2,7 +2,7 @@
 Medi.Check!는 복용 중인 의약품과 영양제를 안전하게 관리할 수 있도록 도와주는 사이트입니다.
 
 
-[🔗Backend Github](https://github.com/guswlsl1216/drug_project_back.git)
+[🔗Backend Github](https://github.com/jjop2/Medi.Check_backend.git)
 
 </br>
 
